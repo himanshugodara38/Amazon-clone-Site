@@ -1,0 +1,58 @@
+{
+    "experiences": [
+        {
+            "company": "NA",
+            "link": "/",
+            "title": "Frontend Developer",
+            "duration": "Aug 2020 - Present",
+            "desc": [
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "when an unknown printer took a galley of type and scrambled.",
+                "It is a long established fact that a reader will be distracted."
+            ]
+        },
+        {
+            "company": "NA",
+            "link": "/",
+            "title": "Internship",
+            "duration": "Jan 2020 - present",
+            "desc": [
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "when an unknown printer took a galley of type and scrambled.",
+                "Various versions have evolved over the years, sometimes by accident"
+            ]
+        },
+        {
+            "company": "NA",
+            "link": "/",
+            "title": "Internship",
+            "duration": "Sep 2020 - present",
+            "desc": [
+                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+                "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+                "when an unknown printer took a galley of type and scrambled.",
+                "It is a long established fact that a reader will be distracted."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title":"Calculator",
+            "image": "./images/project_1.png",
+            "desc": "A Calculator built using ReactJS is a simple and efficient tool that can be added to any portfolio to showcase the developer's skills in building user-friendly web applications. The calculator application is a straightforward tool that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.",
+            "skills": ["React", "Javascript", "CSS"],
+            "github": "https://github.com/SurajSingh45/Calculator",
+            "link": "https://surajsingh45.github.io/Calculator/"
+        },
+        {
+            "title":"Guess the Word",
+            "image": "./images/project_2.png",
+            "desc": "Guess the Word is a fun and interactive game that I created using HTML, CSS, and JavaScript for my portfolio. The game is designed to challenge the player's vocabulary skills by asking them to guess a hidden word. The game has a simple and user-friendly interface, making it accessible to players of all ages and skill levels.",
+            "skills": ["HTML", "Javascript", "CSS"],
+            "github": "https://github.com/SurajSingh45/guess_word_bullseye",
+            "link": "https://surajsingh45.github.io/guess_word_bullseye/"
+        }
+    ]
+}
