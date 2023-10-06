@@ -8,23 +8,23 @@ function ContactBar() {
 	return (
 		<div className={styles.contact_bar_wrapper}>
 			<div className={styles.contact_bar}>
-				<a href="https://www.linkedin.com/in/suraj-kumar-singh-956100230/" target="_blank" className={styles.icon} >
+				<a href="https://www.linkedin.com/in/himanshu-godara-b244b81b2/" target="_blank" className={styles.icon} >
 					<LinkedInIcon  />
 				</a>
-				<a href="https://github.com/SurajSingh45" target="_blank" className={styles.icon} >
+				<a href="https://github.com/himanshugodara38" target="_blank" className={styles.icon} >
 					<GitHubIcon  />
 				</a>
-				<a href="https://www.instagram.com/skpixel_7/" target="_blank" className={styles.icon} >
+				<a href="https://www.instagram.com/bunty__godara/" target="_blank" className={styles.icon} >
 					<InstagramIcon  />
 				</a>
-				<a href="https://twitter.com/Suryapankh" target="_blank" className={styles.icon} >
+				<a href="https://twitter.com/himanshu3832" target="_blank" className={styles.icon} >
 					<TwitterIcon  />
 				</a>
 				<div className={styles.line}></div>
 			</div>
 			<div className={styles.contact_bar}>
-				<a href="mailto:Surajkumarsingh3729@gmail.com" className={styles.email}>
-					Surajkumarsingh3729@gmail.com
+				<a href="mailto:buntygodara38@gmail.com" className={styles.email}>
+					buntygodara38@gmail.com
 				</a>
 				<div className={styles.line}></div>
 			</div>

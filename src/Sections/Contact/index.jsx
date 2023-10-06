@@ -12,7 +12,7 @@ function Contact() {
 				Feel free to contact me. I am always open to discussing new
 				projects, creative ideas or opportunities to be part of your visions.
 			</p>
-			<a href="mailto:Surajkumarsingh3729@gmail.com">
+			<a href="mailto:buntygodara38@gmail.com">
 				<button className={styles.btn}>Say Hello!</button>
 			</a>
 		</section>

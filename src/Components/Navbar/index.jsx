@@ -4,7 +4,7 @@ function Navbar() {
 	return (
 		<nav className={styles.nav_container}>
 			<div className={styles.nav_left}>
-				<a href="#home">Suraj</a>
+				<a href="#home">Himanshu</a>
 			</div>
 			<div className={styles.nav_right}>
 				<a href="#about" className={styles.nav_link}>
