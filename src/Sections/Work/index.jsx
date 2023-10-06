@@ -45,19 +45,19 @@ function Work() {
             <div className={styles.project}>
               <div className={styles.left}>
                 <a href={project.link} className={styles.heading}>
-                  {project.title}
+                  Number Guessing Game Using C++
                 </a>
-                <p className={styles.desc}>{project.desc}</p>
+                <p className={styles.desc}>In this we created a game simply by using <b>do while</b> and <b>if else</b> loops. Also used <b>rand() & srand()</b> functions with time.h like libraries. In this user have to select a number b/w 1 to 100 and computer gives hint like lower or higher number please that helps user to guess the right number.</p>
                 <div className={styles.skill_container}>
                   {project.skills.map((skill) => (
-                    <p>{skill}</p>
+                    <p>C++</p>
                   ))}
                 </div>
                 <div>
-                  <a href="https://github.com/SurajSingh45/guess_word_bullseye" className={styles.link} target="_blank">
+                  <a href="https://github.com/himanshugodara38/Number-Guessing-Game" className={styles.link} target="_blank">
                     <GitHubIcon />
                   </a>
-                  <a href="https://surajsingh45.github.io/guess_word_bullseye/" className={styles.link} target="_blank">
+                  <a href="https://github.com/himanshugodara38/Number-Guessing-Game/blob/main/Guess_game.c%2B%2B" className={styles.link} target="_blank">
                     <OpenInNewIcon />
                   </a>
                 </div>
